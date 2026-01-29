@@ -28,7 +28,7 @@ Para más detalles sobre la arquitectura y funcionalidades, consulta el document
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    # o
-   venv\Scripts\activate     # Windows
+   venv/Scripts/activate     # Windows
    ```
 3. Instalar dependencias:
    ```bash
