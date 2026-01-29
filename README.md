@@ -2,7 +2,9 @@
 
 Bienvenido al repositorio de **BranchChat**. Este proyecto explora un nuevo paradigma de mensajería donde las conversaciones pueden bifurcarse en ramas temáticas, permitiendo discusiones organizadas y profundas sin perder el hilo principal.
 
-##  Concepto
+Intento de red social basada en "ramas" para intentar simular una conversación de lenguaje natural.
+
+## 📄 Concepto
 Para más detalles sobre la arquitectura y funcionalidades, consulta el documento de [IDEAS](./IDEAS.md).
 
 ## 🛠️ Stack Tecnológico
@@ -11,7 +13,7 @@ Para más detalles sobre la arquitectura y funcionalidades, consulta el document
 - **Frontend:** React / Next.js
 - **Tiempo Real:** WebSockets + Redis
 
-##  Configuración del Entorno de Desarrollo
+## 🚀 Configuración del Entorno de Desarrollo
 
 ### Requisitos Previos
 - Python 3.11+
@@ -40,5 +42,5 @@ Para más detalles sobre la arquitectura y funcionalidades, consulta el document
 ### Frontend
 *(Pendiente de inicialización en la carpeta `/frontend`)*
 
-## Contribuciones
+## 🤝 Contribuciones
 Las ideas son bienvenidas. Por favor abre un Issue para discutir cambios mayores.
